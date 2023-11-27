@@ -1,0 +1,12 @@
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\bin\Debug\FlinTech.exe.config
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\bin\Debug\FlinTech.exe
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\bin\Debug\FlinTech.pdb
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\bin\Debug\FlinTech.xml
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\obj\Debug\FlinTech.frmALLTask.resources
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\obj\Debug\FlinTech.frmLogin.resources
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\obj\Debug\FlinTech.frmProcessTask.resources
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\obj\Debug\FlinTech.Resources.resources
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\obj\Debug\FlinTech.vbproj.GenerateResource.Cache
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\obj\Debug\FlinTech.exe
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\obj\Debug\FlinTech.xml
+C:\Users\Naveen\documents\visual studio 2012\Projects\FlinTech\FlinTech\obj\Debug\FlinTech.pdb
